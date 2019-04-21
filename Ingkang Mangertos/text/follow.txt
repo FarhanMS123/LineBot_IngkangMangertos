@@ -1,0 +1,18 @@
+Logger V1.0.0 (Alpha)
+This Bot is in developping mode, Thank you to become participant.
+Nusantara Team.
+@flq2984h
+@farhanms134
+
+Hello, I am BotLogger. I Would save your message on group.
+But I didn't have much resource for that. So, I could save only 1000 messages.
+I could save files (such as images, files, audios, etc) too... (unavailable right now).
+I have some command to execute :
+/leave to leave from group
+/active to show how much readers from the last message (unavailable)
+/msgShow HH:mm-HH:mm to show the message from the HH:mm to HH:mm (HH:Hours, mm:minutes)
+/file type#fileId to get file from #id
+You could use them to make me do a thing.
+Thank you to read this message. I only support for group or roomchat. Just invite me in and I will help you.
+
+Happy Logging!
