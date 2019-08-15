@@ -1,0 +1,18 @@
+Ingkang Mangertos V2.0.0
+
+Halo, saya robot pencatat.
+Saya akan mencatat semua percakapanmu.
+
+perintah yang dapat kamu jalankan terdiri dari :
+/pencatat hidup|mati
+/pesan HH:mm-HH:mm
+/berkas id_berkas
+/bersihkan
+/status
+/tentang
+/kebijakan
+/ketentuan
+/bantuan
+/keluar
+
+tambahkan kata "bantuan" untuk membaca detil perintah.

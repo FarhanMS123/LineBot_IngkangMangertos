@@ -1,0 +1,23 @@
+Ingkang Mangertos V2.0.0
+
+Halo, saya robot pencatat.
+Terimakasih telah menambahkan saya kedalam daftar pertemanan.
+Saya akan mencatat semua percakapanmu.
+
+Saya memerlukan perintah untuk dijalankan :
+/pencatat hidup|mati
+/pesan HH:mm-HH:mm
+/berkas id_berkas
+/status
+/tentang
+/kebijakan
+/ketentuan
+/bantuan
+/keluar
+
+Gunakan perintah tersebut agar saya dapat melakukan sesuatu.
+Terimakasih telah menggunakan aplikasi ini.
+Selamat bersenang-senang!
+
+Penuh cinta dari tim pengembang,
+@farhanms134
