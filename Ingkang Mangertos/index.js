@@ -9,7 +9,7 @@ function addZero(num, lim){
 
 console.log("Initialize Firebase Admin");
 var firebase_admin = global.fb = require('firebase-admin');
-var firebase_serviceAccount = require("./ingkang-mangertos-firebase-adminsdk-gwsy6-b1f03fad14.json");
+var firebase_serviceAccount = require("./ingkang-mangertos-firebase-adminsdk.json");
 firebase_admin.initializeApp({
 	credential: firebase_admin.credential.cert(firebase_serviceAccount),
 	storageBucket: "ingkang-mangertos.appspot.com"
